@@ -3,4 +3,4 @@ Basic TensorFlow operations.
 
 Creating own opetration classes to mimic TensorFlow mechanics.
 
-Building various Neural Networks (CNN, RNN, LSTM)
+Building simple single and multi-layer perceptrons using Numpy arrays and marices.
